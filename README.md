@@ -1,6 +1,6 @@
 # Columnar Analysis Tutorial at CoDaS-HEP on July 23, 2025, at Princeton
 
-Click on this link:
+<!--- Click on this link:
 
 <p align="center">
   <a href="https://ianna.github.io/2025-07-23-CoDaS-HEP-Columnar-Data-Analysis-tutorial/lab/index.html?path=student.ipynb">
@@ -8,7 +8,7 @@ Click on this link:
   </a>
 </p>
 
-to open your student notebook in JupyterLite.
+to open your student notebook in JupyterLite. --->
 
 ## Acknowledgements
 <div>
