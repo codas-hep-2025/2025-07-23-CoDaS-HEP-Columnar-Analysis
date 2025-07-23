@@ -10,6 +10,13 @@
 
 to open your student notebook in JupyterLite. --->
 
+<p align="center">
+  <a href="https://binderhub.ssl-hep.org/v2/gh/iris-hep/codas-hep-2025/Columnar-Analysis/site/files/python?site=nrp&memory=2.5&cpu=1&qos=Guaranteed&filepath=codas-hep-2025/Columnar-Analysis/site/files/student.ipynb">
+    <img src="https://binderhub.ssl-hep.org/badge_logo.svg" alt="Launch Binder" height="40">
+ </a>
+</p>
+
+
 ## Acknowledgements
 <div>
 <img src="img/NSF%20logo.png" width="60" align="left"/>
